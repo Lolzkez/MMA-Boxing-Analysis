@@ -47,7 +47,11 @@ Analysis Results and Presentation.pptx:
 
 - PowerPoint Presentation displaying the results of the analysis, as well as summarise my steps and provide a conclusion. Also shows the references used for this. 
 
+Tools:
 
+- Python (Pandas, Matplotlib, Numpy)
+- Excel
+- PowerPoint
 
 References
 
