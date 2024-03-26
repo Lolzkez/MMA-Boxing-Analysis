@@ -2,49 +2,50 @@
 Data Analysis of Boxing and MMA to determine which sport a media company should put their effort into. 
 
 Folders:
-    Excel Sheets:
-    - Where all the excel worksheets are stored
+Excel Sheets:
+- Where all the excel worksheets are stored
 
-    - This includes Boxing PPV.xlsx, Boxing Revenue (ovr 1m PPV).xlsx, UFC and Boxing Survey Results.xlsx, UFC PPV and Revenue.xlsx, and UFC vs Boxing Relative Search Interest Numbers.csv
+- This includes Boxing PPV.xlsx, Boxing Revenue (ovr 1m PPV).xlsx, UFC and Boxing Survey Results.xlsx, UFC PPV and Revenue.xlsx, and UFC vs Boxing Relative Search Interest Numbers.csv
 
-    Results:
-    - All the images of the graphs created by the scripts. 
+Results:
 
-    - Includes Age and Boxing or MMA.png, Fans of Boxing & MMA.png, Gender and MMA or Boxing.png, Income Bracket and MMA or Boxing.png, PPV and Revenue Analysis.png, and Search Interest of Boxing and UFC.png
+- All the images of the graphs created by the scripts. 
+
+- Includes Age and Boxing or MMA.png, Fans of Boxing & MMA.png, Gender and MMA or Boxing.png, Income Bracket and MMA or Boxing.png, PPV and Revenue Analysis.png, and Search Interest of Boxing and UFC.png
 
 
 Files:
-    Age_Analysis.py:
+Age_Analysis.py:
 
-    - Python script to create a graph of Age groups and fan % for MMA and Boxing. Uses UFC and Boxing Survey results.xlsx
+- Python script to create a graph of Age groups and fan % for MMA and Boxing. Uses UFC and Boxing Survey results.xlsx
 
-    Fan_Analysis.py:
+Fan_Analysis.py:
 
-    - Python script to create a graph of fan % for MMA and Boxing. Uses UFC and Boxing Survey results.xlsx
+- Python script to create a graph of fan % for MMA and Boxing. Uses UFC and Boxing Survey results.xlsx
 
-    Gender_Analysis.py:
+Gender_Analysis.py:
 
-    - Python script to create a graph of Gender and fan % for MMA and Boxing. Uses UFC and Boxing Survey results.xlsx
+- Python script to create a graph of Gender and fan % for MMA and Boxing. Uses UFC and Boxing Survey results.xlsx
 
-    Income_Analysis.py:
+Income_Analysis.py:
 
-    - Python script to create a graph of Income groups and fan % for MMA and Boxing. Uses UFC and Boxing Survey results.xlsx
+- Python script to create a graph of Income groups and fan % for MMA and Boxing. Uses UFC and Boxing Survey results.xlsx
 
-    PPV_And_Revenue_Analysis.py:
+PPV_And_Revenue_Analysis.py:
 
-    - Python script to create a graph of PPV and Revenue Numbers for MMA and Boxing. Uses UFC PPV and Revenue results.xlsx, Boxing PPV.xlsx, and Boxing Revenue (ovr 1m PPV).xlsx 
+- Python script to create a graph of PPV and Revenue Numbers for MMA and Boxing. Uses UFC PPV and Revenue results.xlsx, Boxing PPV.xlsx, and Boxing Revenue (ovr 1m PPV).xlsx 
 
-    Search_Analysis.py:
+Search_Analysis.py:
 
-    - Python script to create a graph of Relative Search Interest for MMA and Boxing. Uses UFC vs Boxing Relative Search Interest Numbers.csv
+- Python script to create a graph of Relative Search Interest for MMA and Boxing. Uses UFC vs Boxing Relative Search Interest Numbers.csv
 
-    scrape.py:
+scrape.py:
 
-    - Python script to scrape the required tables from Wikipedia.
+- Python script to scrape the required tables from Wikipedia.
 
-    Analysis Results and Presentation.pptx:
+Analysis Results and Presentation.pptx:
 
-    - PowerPoint Presentation displaying the results of the analysis, as well as summarise my steps and provide a conclusion. Also shows the references used for this. 
+- PowerPoint Presentation displaying the results of the analysis, as well as summarise my steps and provide a conclusion. Also shows the references used for this. 
 
 
 
